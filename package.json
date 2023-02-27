@@ -1,0 +1,19 @@
+{
+  "name": "node-study",
+  "version": "1.0.0",
+  "description": "class101 웹개발자 사관학교 수업을 통해 만든 서버프로젝트",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gorgeou5/node.js-study.git"
+  },
+  "author": "sieun choi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gorgeou5/node.js-study/issues"
+  },
+  "homepage": "https://github.com/gorgeou5/node.js-study#readme"
+}
